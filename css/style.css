@@ -1,17 +1,19 @@
-#header{
+#header {
     background-color: rgb(224, 211, 155);
     height: 800px;
     font-family: 'Dancing Script', cursive;
 }
-.wrap{
+
+.wrap {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
-#header img{
-    width: 100px;
+
+#header img {
+    width: 150px;
     margin: 10px;
-    /* height: 200px; */
 }
-#header p{
-    margin-left: 350px;
+
+#header p {
+    margin-left: 450px;
 }
