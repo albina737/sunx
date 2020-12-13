@@ -31,3 +31,19 @@ h2 {
 #header p {
     margin-left: 450px;
 }
+
+#footer {
+    background-color: #000;
+    height: 150px;
+    display: flex;
+}
+
+.footer__text {
+    margin: auto;
+    color: #fff;
+    font-size: 22px;
+}
+
+.footer__text:hover {
+    color: rgb(214, 205, 205);
+}
