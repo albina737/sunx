@@ -13,7 +13,7 @@ h1 {
 }
 
 h2 {
-    color: darkblue;
+    color: rgb(145, 145, 238);
     font-style: italic;
 }
 
@@ -45,5 +45,5 @@ h2 {
 }
 
 .footer__text:hover {
-    color: rgb(214, 205, 205);
+    color: rgb(49, 48, 48);
 }
