@@ -12,6 +12,11 @@ h1 {
     margin-left: 200px;
 }
 
+h2 {
+    color: darkblue;
+    font-style: italic;
+}
+
 .wrap {
     display: flex;
     justify-content: center;
@@ -27,4 +32,18 @@ h1 {
     margin-left: 450px;
 }
 
-/* Папа, я закомітила це зі свого ноута */
+#footer {
+    background-color: #000;
+    height: 150px;
+    display: flex;
+}
+
+.footer__text {
+    margin: auto;
+    color: #fff;
+    font-size: 22px;
+}
+
+.footer__text:hover {
+    color: rgb(214, 205, 205);
+}
