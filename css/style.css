@@ -1,7 +1,15 @@
+body {
+    font-size: 18px;
+}
+
 #header {
     background-color: rgb(224, 211, 155);
     height: 800px;
     font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+    margin-left: 200px;
 }
 
 .wrap {
@@ -10,7 +18,8 @@
 }
 
 #header img {
-    width: 150px;
+    width: 200px;
+    height: 320x;
     margin: 10px;
 }
 
