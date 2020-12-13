@@ -12,6 +12,11 @@ h1 {
     margin-left: 200px;
 }
 
+h2 {
+    color: darkblue;
+    font-style: italic;
+}
+
 .wrap {
     display: flex;
     justify-content: center;
@@ -26,5 +31,3 @@ h1 {
 #header p {
     margin-left: 450px;
 }
-
-/* Папа, я закомітила це зі свого ноута */
