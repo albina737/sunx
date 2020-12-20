@@ -12,6 +12,10 @@ h1 {
     margin-left: 200px;
 }
 
+h1:hover {
+    color: rgb(70, 70, 196);
+}
+
 h2 {
     color: rgb(145, 145, 238);
     font-style: italic;
@@ -45,5 +49,5 @@ h2 {
 }
 
 .footer__text:hover {
-    color: rgb(49, 48, 48);
+    color: rgb(221, 28, 28);
 }
